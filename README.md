@@ -1,7 +1,7 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
 <h3 align="center">A passionate app and web developer from Pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://www.lambdatest.com/resources/images/news24.gif"></img>
+<img align="right" alt="Coding" width="300" src="[https://www.lambdatest.com/resources/images/news24.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)"></img>
 
 - 🌱 I’m currently learning **Flutter**
 
