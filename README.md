@@ -1,13 +1,15 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
-<h3 align="center">A passionate app and web developer from Pakistan</h3>
+<h3 align="center">A Passionate App Developer From Pakistan</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"></img>
 
-- 🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning advanced Flutter techniques
 
-- 💬 Ask me about **react, android, mern, javascript, node, java, python, c++, c, c#**
+💬 Ask me about Flutter, FlutterFlow, React, Android, MERN, JavaScript, Node, Java, Python, C++, C, C#
 
-- 📫 How to reach me **akkhanrehman1@gmail.com**
+📫 How to reach me: akkhanrehman1@gmail.com
+
+🚀 Expert in Flutter & FlutterFlow, with 40+ successful projects and a strong, diverse portfolio across mobile and web platforms
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
